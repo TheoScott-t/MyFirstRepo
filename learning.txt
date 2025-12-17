@@ -1,0 +1,1 @@
+In this course, I have learned how to use Git and GitHub to manage projects effectively. I now understand how to clone repositories, create and commit files, work with branches, and push changes to GitHub. These skills are helping me become more confident in version control and collaborative software development.
