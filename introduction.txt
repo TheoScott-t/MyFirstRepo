@@ -1,1 +1,2 @@
+                        Brief Introduction About Myself
 My name is Theophilus Owusu. I am currently learning how to use GitHub to manage  my projects and improve my technical skills. I enjoy exploring technology. I created this file as part of my GitHub learning experience, and I look forward to using this platform for future projects. I created this file as part of my GitHub learning experience under ALX, and I look forward to using this platform for future projects.
